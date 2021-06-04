@@ -6,4 +6,4 @@ A Vanilla Javascript project used to map your workouts.
 - Classes
 - Local Storage
 
-![image](https://user-images.githubusercontent.com/43265237/120860060-bd864800-c5a2-11eb-961a-ac382422a876.png)
+![image](https://user-images.githubusercontent.com/43265237/120860989-3639d400-c5a4-11eb-8245-d01a628ae5ca.png)
